@@ -1,0 +1,36 @@
+<resources>
+
+    <string name="app_name">Proect</string>
+    <string name="app_name_1">Добрый День!</string>
+    <string name="app_name_2">Введите пароль для входа</string>
+    <string name="app_name_3">Рамка для эмблемы</string>
+    <string name="app_name_4">эмблема</string>
+    <string name="app_name_5">Пароль</string>
+    <string name="app_name_6">Нет аккаунта?</string>
+    <string name="app_name_7">ЗАРЕГИСТРИРУЙСЯ</string>
+    <string name="app_name_8">Войти</string>
+    <string name="app_name_9">Регистрация</string>
+    <string name="app_name_10">Имя</string>
+    <string name="app_name_11">Кнопка узкая</string>
+    <string name="app_name_12">Дата Рождения</string>
+    <string name="app_name_13">Номер телефона</string>
+    <string name="app_name_14">Почта</string>
+    <string name="app_name_15">Повторите пароль</string>
+    <string name="app_name_16">Зарегистрироваться</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name17">Услуги</string>
+    <string name="app_name18">Акции</string>
+    <string name="app_name19">Записи</string>
+    <string name="app_name20">Адреса</string>
+    <string name="app_name21">Акции дня</string>
+    <string name="app_name22">Скидка 10% на первое посещение</string>
+    <string name="app_name23">Однотонное покртие -  1300руб.</string>
+    <string name="app_name24">Однотонное покрытие - 2000руб.</string>
+    <string name="app_name25">Масло для кутикулы - 250руб.</string>
+    <string name="app_name26">Квадратная рамка в акциях</string>
+</resources>
